@@ -1,7 +1,7 @@
 print("Hello World")
 
 def func1() :
-    print("Going to fail")
+    print("Going to fail!!!")
     x = 0;
     x =+ 1;
     y=5;
